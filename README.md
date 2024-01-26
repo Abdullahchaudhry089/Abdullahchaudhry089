@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdullahchaudhry089
-- 👀 I’m interested in Cricket
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on GitHub 
 - 📫 How to reach me abdullahchaudhry089@gmail.com
